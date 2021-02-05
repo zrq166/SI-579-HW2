@@ -1,0 +1,22 @@
+header h1 {
+    text-align: center;
+}
+
+body {
+    background-color: ivory;
+    color: midnightblue;
+}
+
+em {
+    color: #976228;
+    font-weight: bold;
+    font-size: 16pt;
+}
+
+.subtitle {
+    font-style: italic;
+}
+
+#photo {
+    background-color: orange;
+}
